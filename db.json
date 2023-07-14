@@ -1,0 +1,18 @@
+{
+  "login": {
+    "username": "admin_username",
+    "password": "admin_password",
+    "role": "admin"
+  },
+  "projects": {
+    "projectName": "LULU",
+    "assignedTeamLead": "KUTTU",
+    "token": "b7ed089a-2515-48be-8c88-3c037c94f3f1"
+  },
+  "tasks": {
+    "taskID": "task_1",
+    "taskName": "Header",
+    "assignedEmployee": "Angel",
+    "token": "b7ed089a-2515-48be-8c88-3c037c94f3f1"
+  }
+}
